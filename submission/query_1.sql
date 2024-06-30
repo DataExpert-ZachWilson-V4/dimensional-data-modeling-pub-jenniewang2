@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS jennierxwang69225.actors;
-
 CREATE TABLE jennierxwang69225.actors(
   actor VARCHAR,
   actor_id VARCHAR, 
